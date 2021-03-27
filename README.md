@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Savita01
+- 👋 Hi, I’m @Savita
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Jquery
 - 📫 How to reach me nelaguddas@gmail.com
